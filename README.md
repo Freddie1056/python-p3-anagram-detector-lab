@@ -98,3 +98,4 @@ sorted([1, 3, 2]) == sorted([3, 2, 1])
 - [Python sorted() Function - W3schools](https://www.w3schools.com/python/ref_func_sorted.asp#:~:text=The%20sorted()%20function%20returns,string%20values%20AND%20numeric%20values.)
 
 [anagrams]: http://www.dictionary.com/browse/anagram
+# python-p3-anagram-detector-lab
